@@ -1,6 +1,6 @@
 {
   "name": "task-kue",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "repository": {
     "type": "git",
     "url": "git@github.com:rajivm/task-kue"
@@ -8,7 +8,7 @@
   "description": "Task based Queue that runs on Kue",
   "main": "index.js",
   "dependencies": {
-    "kue": "0.11.5"
+    "kue": "0.11.6"
   },
   "devDependencies": {},
   "scripts": {
